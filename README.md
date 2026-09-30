@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="500">
+<br><br>
 # 💫Hi there!, I'm Sachin
 Interested in Software Development, AIML & Robotics.<br>Exploring new technologies <br>Building full-stack projects with MERN Stack<br>Python, C, Java, JavaScript, HTML, CSS, MYSQL & SQL<br>Enjoy working with Arduino, ESP32, ESP8266, sensors, embedded systems & electronics<br>SIH 2024 1st Runner-Up / 2nd Prize as a Team Leader<br>Currently strengthening DSA, Computer Science fundamentals & system development
 
